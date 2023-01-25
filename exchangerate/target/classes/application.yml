@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: currex.contact@gmail.com
+    password: mcmhckwqyhsopjas
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
